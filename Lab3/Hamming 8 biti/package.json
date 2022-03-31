@@ -1,0 +1,13 @@
+{
+  "name": "it-prototype",
+  "description": "Node-Express Server",
+  "private": true ,
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "cors": "^2.8.5",
+    "express": "3.x"
+  },
+  "main": "Prototype",
+  "devDependencies": {}
+}
